@@ -10,7 +10,7 @@ All the information regarding the case study has been sourced from [here](https:
 
 ## Steps
 
-1. Gather customer data using **XLOOK UP**:
+### 1. Gather customer data using **XLOOK UP**:
 
 - From the `customers` page search the `Customer name`, `Email`, and `Country` information that matches the `Customer ID` in the `Orders` page.
   
@@ -20,7 +20,7 @@ All the information regarding the case study has been sourced from [here](https:
 
   <img width="500" alt="image" src="https://github.com/user-attachments/assets/e1b9c180-24cb-4d9e-bd84-f40320ab7bd9">
 
-3. Use **INDEX** and **MATCH** to gather product data.
+### 2. Use **INDEX** and **MATCH** to gather product data.
 
 - This way the search will be dynamic and we will have to write only one formula and then drag for the other columns.
 
