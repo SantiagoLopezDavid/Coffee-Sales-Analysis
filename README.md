@@ -57,7 +57,7 @@ All the information regarding the case study has been sourced from [here](https:
 
 ### 4. Create a new `Coffee Type Name` column using **IF** function
 
-- Based on the `Coffee Type` column values, we will create a new `Coffee Type Name` column with the complete coffee type.
+- Based on the `Coffee Type` column values, we will create a new `Coffee Type Name` column with the complete name.
   - Rob = Robusta
   - Exc = Excelsa
   - Ara = Arabica
@@ -69,5 +69,50 @@ All the information regarding the case study has been sourced from [here](https:
 
   <img width="500" alt="image" src="https://github.com/user-attachments/assets/a34593d0-a247-4ec1-b056-19ec2decaa79">
 ---
+
+### 5. Create a new `Roast Type Name` column using **IF** function
+
+- Based on the `Roast Type` column values, we will create a new `Roast Type Name` column with the complete name.
+  - L = Light
+  - M = Medium
+  - D = Dark
+
+```excel
+=IF(J2="M","Medium",IF(J2="L","Light",IF(J2="D","Dark","")))
+```
+
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/57cc7636-7e18-4c84-adb1-4ac8938d68fb">
+---
+
+### 6. Date formating
+
+- First, we will change the formating for the column `Order Date` to show the month as an abreviation in letters.
+- The format we will use is 'dd-mmm-yyyy'.
+
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/95a6475b-da31-43bf-a37d-da81bdb68534">
+
+- Second, we will format the `Size` column to show the unit value. In this case is "Kg".
+
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/cf0800f4-0b16-43dc-90ca-aaebe6ccafdf">
+
+- Third, format `Unit Price` and `Sales` columns to show the currency. In this case the "USD" dollar sign "$".
+
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/fdadda22-5d43-44f0-b3da-110bfd99eacf">
+---
+
+### 7. Check for duplicate values
+
+- Select all data and in the `Data` tap use the `Romove Duplicates` button.
+
+  <img width="256" alt="image" src="https://github.com/user-attachments/assets/1c1fc1ec-9b0f-4b8d-983a-5fc111b8ff0d">
+---
+
+### 8. Convert the page into a table
+
+- CLick anywhere in the data set and use `ctrl`/`command`  + `t`. Excel then will create a table using the data set.
+
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/18b3e82f-358d-4399-b344-78baf87c9a58">
+---
+
 
 
