@@ -74,7 +74,19 @@
   <img width="500" alt="image" src="https://github.com/user-attachments/assets/57cc7636-7e18-4c84-adb1-4ac8938d68fb">
 ---
 
-### 6. Date formating
+### 6. Create a new `Loyalty Card` column using **XLOOK UP** function
+
+- We will bring the information from the `Customers` page realted to the `Loyalty Card` column for each `Customer ID`.
+
+```excel
+=XLOOKUP([@[Customer ID]],customers!$A$1:$A$1001,customers!$I$1:$I$1001,,0)
+```
+
+  <img width="616" alt="image" src="https://github.com/user-attachments/assets/6befd195-3af7-4275-a87d-92c4bba88253">
+
+---
+
+### 7. Date formating
 
 - First, we will change the formating for the column `Order Date` to show the month as an abreviation in letters.
 - The format we will use is 'dd-mmm-yyyy'.
@@ -90,14 +102,14 @@
   <img width="500" alt="image" src="https://github.com/user-attachments/assets/fdadda22-5d43-44f0-b3da-110bfd99eacf">
 ---
 
-### 7. Check for duplicate values
+### 8. Check for duplicate values
 
 - Select all data and in the `Data` tap use the `Romove Duplicates` button.
 
   <img width="256" alt="image" src="https://github.com/user-attachments/assets/1c1fc1ec-9b0f-4b8d-983a-5fc111b8ff0d">
 ---
 
-### 8. Convert the page into a table
+### 9. Convert the page into a table
 
 - CLick anywhere in the data set and use `ctrl`/`command`  + `t`. Excel then will create a table using the data set.
 
