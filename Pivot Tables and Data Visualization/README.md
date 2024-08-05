@@ -32,6 +32,8 @@
 
 - This timeline is importat because we will use it to manipulate and filter all the charts in the dashboard.
 - From the `PivotChart Analyse` tap, select the button `Insert Timeline` and check the `Order Date` box.
+
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/4b5de227-7035-473d-9533-c5204366b6ae">
 ---
 
 ### Insert Slicers 
@@ -39,4 +41,5 @@
 - From the `PivotChart Analyse` tap, select the `Insert Slicer` option.
 - The slicers to create are `Roast Type`, `Size` and `Loyalty Card`.
 
+  <img width="330" alt="image" src="https://github.com/user-attachments/assets/890505e1-f712-4a32-a282-0d9a96cf59b4">
 
