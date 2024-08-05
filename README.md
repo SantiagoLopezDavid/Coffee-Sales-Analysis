@@ -1,5 +1,12 @@
 # ☕️ Coffee Sales Project
 
+## Table of contents
+1. Project Summary.
+3. Data Manipulation.
+4. Pivot Tables and Data Visualization.
+
+## Project Summary
+
 The Coffee Sales Excel Project aims to develop a comprehensive and interactive Excel dashboard to efficiently manage and analyze coffee sales data. 
 This project will enable tracking of:
 - Total sales overtime.
@@ -8,7 +15,7 @@ This project will enable tracking of:
 
 All the information regarding the case study has been sourced from [here](https://github.com/mochen862/excel-project-coffee-sales)
 
-## Steps
+## Data Manipulation
 
 ### 1. Gather customer data using **XLOOK UP**
 
@@ -113,6 +120,17 @@ All the information regarding the case study has been sourced from [here](https:
 
   <img width="500" alt="image" src="https://github.com/user-attachments/assets/18b3e82f-358d-4399-b344-78baf87c9a58">
 ---
+
+## Pivot Tables and Data Visualization
+
+
+
+
+
+
+
+
+
 
 
 
