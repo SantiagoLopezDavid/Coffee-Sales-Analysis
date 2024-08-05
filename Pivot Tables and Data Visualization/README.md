@@ -1,1 +1,42 @@
+# Pivot Tables and Data Visualization
+
+### Total Sales
+
+- Create a new **Pivot Table** from the `orders` table.
+- Drag the `Order Date` to the `Rows` area.
+  - Change the grouping to `Years` and `Months`.
+
+  <img width="346" alt="image" src="https://github.com/user-attachments/assets/e3fcfd71-b7ec-4077-9bb2-341878af574a">
+
+- In the `Design` tab:
+  - Change the **Report Layout** to a **Tabular Form**.
+  - Turn **OFF** the **Grand Totals** for rows and columns.
+  - Turn **OFF** the **Subtotals**.
+
+- Drag `Coffee Type Names` into the `Columns` area.
+- Drag `Sales` into the `Values` area.
+  - Change the formating to use the 1000 separator.
+  - Use 0 decimal places.
+
+- The final pivot table will look like this:
+
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/32afc9a0-d448-4aff-ab3d-4d3ceb06abbf">
+
+- From this pivot table, we can create a Line Chart.
+  - Format the Line Chart so that the information that we want to show is clearer.
+
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/90222b1c-f2bb-43f4-82ef-408469eaadde">
+---
+
+### Insert Time Line 
+
+- This timeline is importat because we will use it to manipulate and filter all the charts in the dashboard.
+- From the `PivotChart Analyse` tap, select the button `Insert Timeline` and check the `Order Date` box.
+---
+
+### Insert Slicers 
+
+- From the `PivotChart Analyse` tap, select the `Insert Slicer` option.
+- The slicers to create are `Roast Type`, `Size` and `Loyalty Card`.
+
 
