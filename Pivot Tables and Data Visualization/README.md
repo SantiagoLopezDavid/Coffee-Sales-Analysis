@@ -61,6 +61,8 @@
 - Insert a **Bar Chart** and format.
 
   <img width="500" alt="image" src="https://github.com/user-attachments/assets/3c312f0f-d223-45e4-996d-9cf9247f3441">
+---
+
 
 
 
