@@ -61,7 +61,7 @@ We welcome contributions from the community to enhance this repository. Whether 
 
 ## References
 
-1. Mo Chen Youtube Channel [Link](https://www.youtube.com/watch?v=m13o5aqeCbM&list=PLodYDTuHA29aFro3j4-Wsakm0jI8enRiN&index=5).
+- Mo Chen Youtube Channel [The ONLY EXCEL PORTFOLIO PROJECT YOU NEED](https://www.youtube.com/watch?v=m13o5aqeCbM&list=PLodYDTuHA29aFro3j4-Wsakm0jI8enRiN&index=5).
 
 ## License
 The dataset and all associated files in this repository are available under the Attribution 4.0 International (CC BY 4.0) license.
