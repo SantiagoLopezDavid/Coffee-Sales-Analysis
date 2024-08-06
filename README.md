@@ -4,6 +4,7 @@
 1. Project Summary.
 3. Data Manipulation.
 4. Pivot Tables and Data Visualization.
+5. Dashboard.
 
 ## Project Summary
 
