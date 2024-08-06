@@ -15,9 +15,9 @@
 
 The Coffee Sales Excel Project aims to develop a comprehensive and interactive Excel dashboard to efficiently manage and analyze coffee sales data. 
 This project will enable tracking of:
-- Total sales overtime.
-- Sales by country.
-- Top 5 customers.
+- Total Sales Overtime.
+- Sales By Country.
+- Top 5 Customers.
 
 ## Data Sources
 
