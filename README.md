@@ -26,6 +26,7 @@ The Dataset used for this case study has been sourced from [here](https://github
 ## Project Files
 
 - "coffeeOrdersData.xlsx" : Contains the data set for this case study.
+- "coffeeOrders - Dashboard.xlsx" : Final document.
 
 ## Tools
 **Excel**: It will be the main tool used in this case study to perform all data manipulation, data cleaning, data formating and visualizations. 
