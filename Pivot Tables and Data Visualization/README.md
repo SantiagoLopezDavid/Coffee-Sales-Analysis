@@ -63,10 +63,20 @@
   <img width="500" alt="image" src="https://github.com/user-attachments/assets/3c312f0f-d223-45e4-996d-9cf9247f3441">
 ---
 
+### Dashboard
 
+- Now that we have all the charts and information that is going to be added to the Dashboard, is time to build it.
+- Create a new worksheet and bring all the charts, slicers and timeline.
+- Bring them together in a way that the information that we want to present is clear and the slicers and timeline can be use without taking away from the data.
+- One last thin to do is for the slicers and timeline to have a connection with the `Sales By Country` and `Top 5 Customers` charts.
+  - To do this we can click in the timeline or slicer, then click in the corresponding tab, and then `Report Connections`.
+  - Here select the other two charts.
+    
+    <img width="419" alt="image" src="https://github.com/user-attachments/assets/3e5bac9a-dc62-46a0-8e91-cdadd70537b7">
 
+- All is left to do is add formating and color to the Dashboard so it has an appealing look but without taking away from the data which is the most important.
 
-
+<img width="1233" alt="image" src="https://github.com/user-attachments/assets/8fec9464-9b12-4f57-ba2a-2504e7f1acfb">
 
 
 
