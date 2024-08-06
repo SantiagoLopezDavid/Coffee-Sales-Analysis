@@ -23,7 +23,7 @@
   <img width="500" alt="image" src="https://github.com/user-attachments/assets/32afc9a0-d448-4aff-ab3d-4d3ceb06abbf">
 
 - From this pivot table, we can create a Line Chart.
-  - Format the Line Chart so that the information that we want to show is clearer.
+  - Format the Line Chart so that the information that we want to show is clear.
 
   <img width="500" alt="image" src="https://github.com/user-attachments/assets/90222b1c-f2bb-43f4-82ef-408469eaadde">
 ---
@@ -42,4 +42,43 @@
 - The slicers to create are `Roast Type`, `Size` and `Loyalty Card`.
 
   <img width="330" alt="image" src="https://github.com/user-attachments/assets/890505e1-f712-4a32-a282-0d9a96cf59b4">
+---
+
+### Country Bar Chart
+
+- Duplicate the worksheet with the Pivot Table from `Total Sales`.
+- In the `PivotTable Fields` bring the `Country` field into the `Rows` area, and leave `Sales` in the `Values` area.
+- Insert a **Bar Chart** and format.
+
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/16414daa-9b42-4b6b-89a4-e7ec7b0332d6">
+---
+
+### Top 5 Customers Bar Chart
+
+- Duplicate the worksheet with the Pivot Table from `Total Sales`.
+- In the `PivotTable Fields` bring the `Customer Name` field into the `Rows` area, and leave `Sales` in the `Values` area.
+- Filter by the **Top 5** and sort the results based on the `Sum of Sales`.
+- Insert a **Bar Chart** and format.
+
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/3c312f0f-d223-45e4-996d-9cf9247f3441">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
