@@ -29,7 +29,7 @@ The Dataset used for this case study has been sourced from [here](https://github
 
 ## Tools
 **Excel**: It will be the main tool used in this case study to perform all data manipulation, data cleaning, data formating and visualizations. 
-Some of the functions used are: 
+Some of the functions and tools used are: 
 
 - **XLOOK UP**, **INDEX**, **MATCH**.
 - Pivot Tables.
